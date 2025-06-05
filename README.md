@@ -119,15 +119,15 @@ You can now access your React app via your custom domain.
 
 ---
 
-## 🙋‍♂️ Connect with Me
+## Connect with Me
 
-* 🌐 [YouTube - Sagar Kakkala's World](https://www.youtube.com/@sagarkakkala)
-* 💼 [LinkedIn - Sagar Kakkala](https://www.linkedin.com/in/sagar-kakkala)
-* 📝 [Sagar Kakkala Blog](https://www.sagarkakkalasworld.com/p/contents-of-blog-sagar-kakkalas-world.html)
-* 🔗 [Sagar Kakkala One Stop](https://linktr.ee/sagar_kakkalas_world)
-
+* [📺 YouTube - Sagar Kakkala's World](https://www.youtube.com/@sagarkakkala)
+* [📁 20 Day-DevOps to GitOps Project (YouTube Playlist)](https://www.youtube.com/playlist?list=PLlMNTzKKV4R585f9o-Og8Cd4V9sc6w8yA)
+* [💼 LinkedIn - Sagar Kakkala](https://www.linkedin.com/in/sagar-kakkala)
+* [📝 Blog - Sagar Kakkala's World](https://www.sagarkakkalasworld.com/p/contents-of-blog-sagar-kakkalas-world.html)
+* [🌐 One Stop - Linktree](https://linktr.ee/sagar_kakkalas_world)
 
 ---
 
-Let me know if you want this uploaded to a GitHub repo or want badges/images added.
-```
+🖊 **Feedback, queries, and suggestions are welcome in the comments!**
+
